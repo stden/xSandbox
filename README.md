@@ -1,4 +1,4 @@
-# xSandbox
+# geocom site
 This application was generated using JHipster 4.7.0, you can find documentation and help at [https://jhipster.github.io/documentation-archive/v4.7.0](https://jhipster.github.io/documentation-archive/v4.7.0).
 
 ## Development
